@@ -80,10 +80,10 @@ xui.Class('App', 'xui.Module',{
                 xui.create("xui.UI.Label")
                 .setHost(host,"xui_ui_label7")
                 .setRotate(359)
-                .setLeft("1.75em")
-                .setTop("5em")
-                .setWidth("18.916666666666668em")
-                .setHeight("5.166666666666667em")
+                .setLeft("3.892857142857143em")
+                .setTop("6.071428571428571em")
+                .setWidth("7.5em")
+                .setHeight("3.0357142857142856em")
                 .setCaption("yfgfgc")
                 .setCustomStyle({
                     "KEY":{
